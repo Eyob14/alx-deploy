@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/alx-deploy/static/css/main.14f74e59.chunk.css",
+    "main.js": "/alx-deploy/static/js/main.ffabfec0.chunk.js",
+    "main.js.map": "/alx-deploy/static/js/main.ffabfec0.chunk.js.map",
+    "runtime-main.js": "/alx-deploy/static/js/runtime-main.8dd3bef3.js",
+    "runtime-main.js.map": "/alx-deploy/static/js/runtime-main.8dd3bef3.js.map",
+    "static/js/2.0280cb83.chunk.js": "/alx-deploy/static/js/2.0280cb83.chunk.js",
+    "static/js/2.0280cb83.chunk.js.map": "/alx-deploy/static/js/2.0280cb83.chunk.js.map",
+    "index.html": "/alx-deploy/index.html",
+    "static/css/main.14f74e59.chunk.css.map": "/alx-deploy/static/css/main.14f74e59.chunk.css.map",
+    "static/js/2.0280cb83.chunk.js.LICENSE.txt": "/alx-deploy/static/js/2.0280cb83.chunk.js.LICENSE.txt",
+    "static/media/close-icon.7ca727dc.png": "/alx-deploy/static/media/close-icon.7ca727dc.png",
+    "static/media/logo.24bab5d6.jpg": "/alx-deploy/static/media/logo.24bab5d6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8dd3bef3.js",
+    "static/js/2.0280cb83.chunk.js",
+    "static/css/main.14f74e59.chunk.css",
+    "static/js/main.ffabfec0.chunk.js"
+  ]
+}
